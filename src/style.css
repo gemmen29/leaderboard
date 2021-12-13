@@ -1,4 +1,5 @@
 /* css resets */
+
 /* Box sizing rules */
 *,
 *::before,
@@ -80,6 +81,6 @@ select {
   border: 2px solid black;
 }
 
-.leader-board li:nth-child(odd){
+.leader-board li:nth-child(odd) {
   background-color: #ddd;
 }
