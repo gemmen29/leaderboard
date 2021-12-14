@@ -15,7 +15,6 @@ const creatListItemForEachLeaderboard = (name, score) => {
     'py-1',
     'px-2',
     'fs-5',
-    'text-dark',
     'text-start',
   );
   leaderboardItem.textContent = `${name}: ${score}`;
