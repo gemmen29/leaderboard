@@ -80,8 +80,9 @@ select {
 
 .leader-board {
   border: 2px solid black;
-  box-shadow: #1c1f20e1 0px 2px 4px 0px,
-    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  box-shadow:
+    #1c1f20e1 0 2px 4px 0,
+    rgba(14, 30, 37, 0.32) 0 2px 16px 0;
 }
 
 .leader-board li {
