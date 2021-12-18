@@ -24,10 +24,6 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
 - Click on the top right green "code" button.
 - On the dropdown menu, choose "download with zip" button.
 - After download, extract the zip file and you have the project running on your machine.
